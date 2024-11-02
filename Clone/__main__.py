@@ -1,7 +1,5 @@
 from pyrogram import Client
 
-
-
 # Set up bot configurations
 API_ID = 29764570
 API_HASH = "7676192e491329a1b859b2184e5d7823"
