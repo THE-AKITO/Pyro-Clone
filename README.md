@@ -1,6 +1,4 @@
-# Pyrogram Clone Client Example
-
-𝗧𝗵𝗶𝘀 𝗶𝘀 𝗷𝘂𝘀𝘁 𝗮𝗻 𝗲𝘅𝗮𝗺𝗽𝗹𝗲 𝗼𝗳 𝗮 𝗰𝗹𝗼𝗻𝗲 𝗰𝗹𝗶𝗲𝗻𝘁 𝗶𝗻 𝗣𝘆𝗿𝗼𝗴𝗿𝗮𝗺.
+# Pyrogram Clone Client 
 
 ## Commands
 ```markdown
